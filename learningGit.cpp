@@ -12,6 +12,11 @@ void sub(){
 cout<<"Sencond method for pull testing";
 }
 
+
+void pavithraMethod() {
+    cout << "branch testing";
+}
+
 int main()
 {
     cout << "Hello World!\n";
